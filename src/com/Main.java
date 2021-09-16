@@ -15,5 +15,6 @@ public class Main {
         System.out.println(myArray.contains(200));
         System.out.println("master test");
         System.out.println("hot fix test");
+        System.out.println("push test");
     }
 }
