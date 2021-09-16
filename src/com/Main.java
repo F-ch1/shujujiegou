@@ -2,8 +2,8 @@ package com;
 
 public class Main {
     public static void main(String[] args) {
-            MyArray myArray = new MyArray();
-            myArray.addLast("aaa");
+            MyArray<Integer> myArray = new MyArray();
+            myArray.addLast(333);
             myArray.addLast(200);
             myArray.addLast(200);
             myArray.addLast(200);

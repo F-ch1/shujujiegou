@@ -26,6 +26,5 @@ public class Main {
         bst.levelOrder();
         BST<Integer>.Node node = bst.removeNode(bst.root, 3);
         System.out.println(node);
-        System.out.println(node);
     }
 }
