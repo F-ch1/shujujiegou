@@ -13,5 +13,6 @@ public class Main {
             myArray.removeEle(2);
         System.out.println(myArray);
         System.out.println(myArray.contains(200));
+        System.out.println("hot fix test");
     }
 }
