@@ -18,5 +18,6 @@ public class Main {
         System.out.println(linklist);
         boolean contains = linklist.contains(20);
         System.out.println(contains);
+         System.out.println("pull test");
     }
 }
